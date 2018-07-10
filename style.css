@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body, html {
+  font-family: 微軟正黑體;
+}
+
+.table-time {
+  width: 20%;
+}
+
+.table-district {
+  width: 10%;
+}
+
+.table-location {
+  width: 30px;
+}
+
+.table-description {
+  width: 40%;
+}
+
+.table-state {
+  width: 10%;
+}
+/*# sourceMappingURL=style.css.map */
