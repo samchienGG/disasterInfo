@@ -26,7 +26,7 @@ var app = new Vue({
     },
     methods: {
         getJson: function () {
-            axios.get('https://tpeoc.blob.core.windows.net/blobfs/GetDisasterSummary.json')
+            axios.get('https://next.json-generator.com/api/json/get/Ek86hdRMr')
                 .then(function (response) {
                     app.info = response.data;
                 })
